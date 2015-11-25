@@ -1,0 +1,1 @@
+jmeter -t performance_scenario.jmx
